@@ -1,0 +1,13 @@
+---- Pour lancer le fichier ----
+python Brvm_Dashboard.py
+
+
+---- Les modules utlisés sont dans le fichier ----
+requirement.txt
+
+
+----  Pour installer les dépendances ---
+pip install -r requirement.txt
+
+---- Pour arreter le serveur ----
+ctrl+c
